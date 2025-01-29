@@ -1,5 +1,5 @@
 # VIDUSHI SHARMA
-## I edit code files for a living
+## I edit text files for a living
 
 - 👋 Hi, I’m @vidushi09 
 - 🌱 I’m currently learning AWS and System Design
